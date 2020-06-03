@@ -12,7 +12,7 @@ Chrome selenium bot which let you send message on facebook messenger using cmd
 
 * messenger_bot.py "name of person you want to message to" "message"
 * make sure that both are in quotes " "
-* if person which you're seanding a message to has changed their facebook nickname you must put this nickname instead of their name, same goes for groups.
+* if person which you're sending a message to has changed their facebook nickname you must put this nickname instead of their name, same goes for groups.
 
 
 ## Example
